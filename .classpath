@@ -8,6 +8,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/User/.p2/pool/plugins/junit-jupiter-api_5.12.2.jar"/>
+=======
+>>>>>>> branch 'master' of https://github.com/Cesarleitor/projeto-campo-minado.git
 	<classpathentry kind="output" path="bin"/>
 </classpath>
