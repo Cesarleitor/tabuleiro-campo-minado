@@ -83,28 +83,8 @@ public class TabuleiroConsole {
 		}
 		return digitado;
 	}
-}
+     
 
-					
-				}
 
-			}
-
-			System.out.println("Você ganhou!");
-		} catch (ExplosaoException e) {
-			System.out.println("Você perdeu!");
-		}
-
-	}
-
-	private String capturarValorDigitado(String texto) {
-		System.out.print(texto);
-		String digitado = entrada.nextLine();
-
-		if ("sair".equalsIgnoreCase(digitado)) {
-			throw new SairException();
-		}
-		return digitado;
-	}
 }
 
